@@ -112,7 +112,7 @@ The Mid-Semester Exam covers core topics in modulation, phase, and frequency ana
 1. **Install GNU Radio:** Follow the official installation guide for GNU Radio.
 2. **Clone this repository:**
    ```bash
-   git clone https://github.com/username/EE340-Communications-Lab.git
+   git clone https://github.com/brycisliova/Communications_Lab.git
    cd EE340-Communications-Lab
 Run Lab Flowgraphs: Open the .grc files in GNU Radio Companion and execute the flowgraphs as per the instructions.
 > **Note:**  
