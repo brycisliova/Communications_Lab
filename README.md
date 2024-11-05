@@ -113,7 +113,7 @@ The Mid-Semester Exam covers core topics in modulation, phase, and frequency ana
 2. **Clone this repository:**
    ```bash
    git clone https://github.com/brycisliova/Communications_Lab.git
-   cd EE340-Communications-Lab
+   cd Communications_Lab
 Run Lab Flowgraphs: Open the .grc files in GNU Radio Companion and execute the flowgraphs as per the instructions.
 > **Note:**  
 > This repository is intended for educational purposes. To fully benefit, follow each lab’s manual, observe results, and analyze different outcomes.
